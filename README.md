@@ -66,10 +66,11 @@ Un fois l’autorisation d’installer depuis les fichiers activée, allez dans 
 
 <h3 align="center"> Developed by : </h3>
 <div align="center">
-<p>Sofiane Kebci</p>
-<p>Lina Ait-Razzouk</p>
-<p>Meriem Ramdani</p>
-<p>Clément Fresnel</p>
-<p>Juliette Dadoit</p>
+	
+* [Sofiane Kebci](https://github.com/kebciSofiane/)
+* [Lina Ait-Razzouk](https://github.com/LinaAitr/)
+* [Meriem RAMDANI](https://github.com/Tecna3000/)
+* [Clément Fresnel](https://github.com/clemfrsl/)
+* [Juliette Dadoit](https://github.com/JulietteDadoit/)
 </div>
 
